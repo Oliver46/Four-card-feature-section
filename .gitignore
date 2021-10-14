@@ -1,0 +1,6 @@
+#files to ignore
+.DS_Store
+example/
+
+#ignore all the files with text extension
+*.txt
